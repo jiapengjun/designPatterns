@@ -1,0 +1,4 @@
+rm -rf *.class
+
+javac SongListGenerator.java
+java SongListGenerator

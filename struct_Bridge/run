@@ -1,0 +1,4 @@
+rm -rf *.class
+
+javac TestTheRemote.java
+java TestTheRemote

@@ -1,0 +1,4 @@
+rm -rf *.class
+
+javac PlayWithRemote.java
+java PlayWithRemote

@@ -1,0 +1,4 @@
+rm -rf *.class
+
+javac TestStockMediator.java
+java TestStockMediator

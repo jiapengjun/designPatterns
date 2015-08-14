@@ -1,0 +1,4 @@
+rm -rf *.class
+
+javac SandwichSculptor.java
+java SandwichSculptor

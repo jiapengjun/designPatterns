@@ -1,0 +1,4 @@
+rm -rf *.class
+
+javac TestEnemyAttackers.java
+java TestEnemyAttackers

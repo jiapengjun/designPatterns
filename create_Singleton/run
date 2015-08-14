@@ -1,0 +1,4 @@
+rm -rf *.class
+
+javac ScrabbleTestThreads.java
+java ScrabbleTestThreads

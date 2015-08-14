@@ -1,0 +1,4 @@
+rm -rf *.class
+
+javac FlyWeightTest.java
+java FlyWeightTest
